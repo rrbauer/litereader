@@ -10,3 +10,7 @@ The illustrations/images (if applicable) are saved to a directory with the same 
 Dependencies:
 - Python3
 - BeautifulSoup
+
+Usage: literader.py url
+
+The story html and illustrations/images will be saved in the current directory.
