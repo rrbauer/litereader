@@ -6,3 +6,7 @@ Litereader will download stories from the erotic fiction website, Literotica. Gi
 It's handy for saving a copy of your favorite stories, for reading again later.
 
 The illustrations/images (if applicable) are saved to a directory with the same name as the story html file.
+
+Dependencies:
+- Python3
+- BeautifulSoup
