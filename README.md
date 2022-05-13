@@ -13,4 +13,6 @@ Dependencies:
 
 Usage: literader.py url
 
+Example: litereader.py https://www.literotica.com/s/a-happy-marriage-a-stockings-tale (this is an illustrated story)
+
 The story html and illustrations/images will be saved in the current directory.
